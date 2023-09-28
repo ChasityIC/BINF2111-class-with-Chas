@@ -1,0 +1,5 @@
+#!/bin/bash
+for i in kite_data.txt
+do
+	head "$i"
+done
