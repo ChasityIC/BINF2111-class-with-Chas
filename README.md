@@ -1,5 +1,5 @@
 # BINF2111-class-with-Chas
-Chasity Chambers
+My name is Chasity.
 Fall 2023
-Biology major
-Junior
+I major in Biology.
+I am a Junior.
